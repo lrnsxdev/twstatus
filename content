@@ -1,5 +1,4 @@
 {
-  "status": "maintenance",
-  "description": "2026-06-07 - Server Maintenance.",
-  "serverid": "1"
+  "status": "stable",
+  "description": "healty",
 }
